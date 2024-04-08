@@ -129,7 +129,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: '26 January 2023',
-            image: 'images/Bakhmut_during_the_battle.jpg',
+            image: 'Bakhmut_during_the_battle.jpg',
             description: 'On this day, Ukrainian military forces repelled a Russian attack in the area of Bakhmut, Donetsk. According to Ukrainian sources, 600-700 Russian servicemen were killed during the day. <br> <br> It is considered the bloodiest battle of the war so far, and one of the longest, with it being characterized as the "bloodiest infantry brawl since World War II"',
             location: {
                 center:[37.76794, 48.05926],
