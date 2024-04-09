@@ -10,11 +10,11 @@ var config = {
     theme: 'dark',
     use3dTerrain: true, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Timeline of Russo-Ukrain War',
-    subtitle: 'Also the story of fires and blood',
+    title: 'History, Clash',
+    subtitle: 'They once marched forward hand in hand.',
 
 
-    byline: 'name of our three',
+    byline: 'National University of Singapore \n \n Brandon Yeo Tianci \n Cheng Lipei \n Liu Haixiao \n ',
 
 
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
@@ -122,3 +122,4 @@ var config = {
         }
     ]
 };
+
